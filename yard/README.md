@@ -33,6 +33,13 @@ A ~2,000 sq ft yard in Foster City, CA being managed with a natural, low-input a
 
 ---
 
+## Vendors & Resources
+
+- **Yerba Buena Nursery** — native plants; 12511 San Mateo Rd Unit C, Half Moon Bay; Tue–Sat 9am–4pm; [yerbabuenanursery.com](https://www.yerbabuenanursery.com/)
+- **Mister Landscaper** — [misterlandscaper.com/frequently-asked-questions](https://misterlandscaper.com/frequently-asked-questions)
+
+---
+
 ## Areas still incomplete
 - Hedge (adjacent to front lawn) — no detail file yet
 - Flower bed (adjacent to front lawn) — no detail file yet
