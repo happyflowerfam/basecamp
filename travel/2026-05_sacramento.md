@@ -12,7 +12,7 @@
 | 7:00 AM            | Depart Foster City                                                                           |
 | ~9:30 AM           | Arrive Sacramento — head to Old Sacramento, walk around until museum opens                    |
 | 10:00 AM           | **California State Railroad Museum** (Old Sacramento)                                        |
-| 11:15 AM           | **Excursion train ride** — departs Central Pacific Passenger Station · done by 12:05 PM      |
+| 11:15 AM           | **Excursion train ride** — departs Central Pacific Passenger Station · Order #456391678 · done by 12:05 PM |
 | 12:45 PM           | **Lunch — Joe's Crab Shack** ✅ reserved · 0.3 mi walk from museum                           |
 | 1:30 PM            | **Old Sacramento Historic District** stroll & **Capitol Park** (optional)                    |
 | 3:00 PM            | Check in — Best Western Plus, Rancho Cordova                                                 |
@@ -65,7 +65,7 @@ Free breakfast · Free parking · Pool · ~20 min from Wolfe Heights Winery
 
 - [ ] **⚠️ Plan outfits URGENT** — Saturday (casual/comfort for sightseeing + karaoke), Sunday (daywear → wedding attire for 5 PM), Monday (travel home)  **Weather:** Sacramento in late May runs 80–90°F and sunny. Pack sunscreen, refillable water bottles, and light layers for the cooler evening at the winery.
 - [ ] **Arrange wedding gift** — Buy/ship before departure or bring
-- [ ] **Book excursion train** — 11:15 AM departure, done by 12:05 PM · ⏳ waiting on Suneira to confirm
+- [x] **Book excursion train** — 11:15 AM departure, done by 12:05 PM · Order #456391678
 - [ ] **Pack the essentials** — Sunscreen, hats, reusable water bottles, comfortable walking shoes; block heels/wedges for the winery (no stilettos on vineyard gravel!); **sleeping bag for one**
 - [ ] **Trader Joe's run** — GF snacks and food for the car
 - [x] **Download offline maps**
