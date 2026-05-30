@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+  <name>Hawaii 2026 — Summer Break</name>
+  <description>Jun 5–14, 2026 · Kauai + Big Island. Coordinates verified via OpenStreetMap Nominatim API. Places marked * are estimated — verify pin in My Maps.</description>
+
+  <!-- Styles -->
+  <Style id="hotel">
+    <IconStyle><color>ff0000ff</color><Icon><href>http://maps.google.com/mapfiles/kml/shapes/lodging.png</href></Icon></IconStyle>
+  </Style>
+  <Style id="activity">
+    <IconStyle><color>ff00ff00</color><Icon><href>http://maps.google.com/mapfiles/kml/shapes/star.png</href></Icon></IconStyle>
+  </Style>
+  <Style id="food">
+    <IconStyle><color>ff00ffff</color><Icon><href>http://maps.google.com/mapfiles/kml/shapes/restaurants.png</href></Icon></IconStyle>
+  </Style>
+  <Style id="transport">
+    <IconStyle><color>ffff0000</color><Icon><href>http://maps.google.com/mapfiles/kml/shapes/airports.png</href></Icon></IconStyle>
+  </Style>
+
+  <!-- ========== KAUAI ========== -->
+  <Folder>
+    <name>🌿 Kauai</name>
+
+    <Folder>
+      <name>Hotels &amp; Logistics</name>
+      <Placemark>
+        <name>Lihue Airport (LIH)</name>
+        <description>Arrive Jun 5 @ 11:50am · Depart Jun 9 @ 5:00pm</description>
+        <styleUrl>#transport</styleUrl>
+        <Point><coordinates>-159.3500201,21.9722488,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>Aston Islander on the Beach *</name>
+        <description>440 Aleka Pl, Kapaa · Check-in Jun 5 @ 3pm · Check-out Jun 9 @ 11am · Ocean-View Room · *pin estimated</description>
+        <styleUrl>#hotel</styleUrl>
+        <Point><coordinates>-159.3218,22.0732,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>Avis Car Rental — Lihue</name>
+        <description>3259 Hoolimalima Pl, Lihue · Pick-up Jun 5 @ 12:30pm · Drop-off Jun 9 @ 3:30pm · Driver: Kshitij Sanghi</description>
+        <styleUrl>#transport</styleUrl>
+        <Point><coordinates>-159.3515141,21.9783233,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>Kikiaola Small Boat Harbor *</name>
+        <description>Makana Charters Na Pali Kai III · Jun 7, check-in 1:15pm, departs 2:00pm · Booking ID: 4303 · *pin estimated</description>
+        <styleUrl>#transport</styleUrl>
+        <Point><coordinates>-159.7430,21.9668,0</coordinates></Point>
+      </Placemark>
+    </Folder>
+
+    <Folder>
+      <name>Activities</name>
+      <Placemark>
+        <name>Lydgate Beach Park</name>
+        <description>Day 2 · Man-made snorkel pools · ~10 min from Kapaa · Great for kids · Safest snorkel spot</description>
+        <styleUrl>#activity</styleUrl>
+        <Point><coordinates>-159.3373227,22.0368013,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>Hanalei Bay</name>
+        <description>Day 3 · Iconic Kauai beach · Wide, calm, beautiful · ~25 min from Kapaa</description>
+        <styleUrl>#activity</styleUrl>
+        <Point><coordinates>-159.5091667,22.2100000,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>Ke'e Beach / Na Pali Trailhead</name>
+        <description>Day 4 · Stunning beach + snorkeling · Start of Hanakapi'ai Trail (2 miles kid-friendly) · ~40 min from Kapaa</description>
+        <styleUrl>#activity</styleUrl>
+        <Point><coordinates>-159.5826625,22.2220608,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>Limahuli Garden</name>
+        <description>Botanical garden in a valley · Easy morning walk · Near Ke'e Beach</description>
+        <styleUrl>#activity</styleUrl>
+        <Point><coordinates>-159.5764736,22.2182974,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>Princeville Resort Area</name>
+        <description>Day 4 · Breakfast with bay view at Princeville Hotel · ~20 min from Kapaa · Snigdha's rec</description>
+        <styleUrl>#activity</styleUrl>
+        <Point><coordinates>-159.4837776,22.2212783,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>Poipu Beach</name>
+        <description>South shore · Family-friendly · Sea turtles · ~35 min from Kapaa</description>
+        <styleUrl>#activity</styleUrl>
+        <Point><coordinates>-159.4549786,21.8731696,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>Waimea Canyon State Park</name>
+        <description>"Grand Canyon of the Pacific" · Easy lookout drives + short trails · ~50 min from Kapaa</description>
+        <styleUrl>#activity</styleUrl>
+        <Point><coordinates>-159.6649498,22.0707896,0</coordinates></Point>
+      </Placemark>
+    </Folder>
+
+    <Folder>
+      <name>Food (GF-friendly)</name>
+      <Placemark>
+        <name>Papaya's Natural Foods &amp; Café *</name>
+        <description>Kapaa · Extensive GF menu, GF pizza · Near hotel · *pin estimated</description>
+        <styleUrl>#food</styleUrl>
+        <Point><coordinates>-159.3190,22.0754,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>Bar Acuda *</name>
+        <description>Hanalei · Upscale Mediterranean/Hawaiian · Dedicated GF menu · Treat night · *pin estimated</description>
+        <styleUrl>#food</styleUrl>
+        <Point><coordinates>-159.4990,22.2040,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>Kōloa Fish Market</name>
+        <description>Koloa · Hawaiian poke bowls with GF soy sauce</description>
+        <styleUrl>#food</styleUrl>
+        <Point><coordinates>-159.4636842,21.9049267,0</coordinates></Point>
+      </Placemark>
+    </Folder>
+  </Folder>
+
+  <!-- ========== BIG ISLAND ========== -->
+  <Folder>
+    <name>🌋 Big Island</name>
+
+    <Folder>
+      <name>Hotels &amp; Logistics</name>
+      <Placemark>
+        <name>Kona Airport (KOA)</name>
+        <description>Arrive Jun 9 @ 5:40pm · Depart Jun 13 @ 10:50pm</description>
+        <styleUrl>#transport</styleUrl>
+        <Point><coordinates>-156.0422960,19.7439060,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>Avis Car Rental — KOA *</name>
+        <description>73-361 Kupipi St Ste 1, Kailua Kona · Pick-up Jun 9 @ 6pm · Drop-off Jun 13 @ 10pm · Confirmation: 11814478US4 · *pin estimated near airport</description>
+        <styleUrl>#transport</styleUrl>
+        <Point><coordinates>-156.0460,19.7385,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>SCP Hilo Hotel</name>
+        <description>126 Banyan Way, Hilo · Check-in Jun 9 @ 4pm · Check-out Jun 13 @ 11am · Premium-View Room, Two Double Beds</description>
+        <styleUrl>#hotel</styleUrl>
+        <Point><coordinates>-155.0628730,19.7241039,0</coordinates></Point>
+      </Placemark>
+    </Folder>
+
+    <Folder>
+      <name>Activities</name>
+      <Placemark>
+        <name>Hilo Farmers Market</name>
+        <description>Day 6 (Wed) + Day 9 (Sat) · Local produce, tropical fruit, GF snacks · Downtown Hilo</description>
+        <styleUrl>#activity</styleUrl>
+        <Point><coordinates>-155.0846254,19.7231318,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>Rainbow Falls</name>
+        <description>Day 6 · ~5 min from hotel · Best in morning light for rainbow in mist</description>
+        <styleUrl>#activity</styleUrl>
+        <Point><coordinates>-155.1095939,19.7194808,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>Akaka Falls State Park</name>
+        <description>Day 6 · ~15 min north of Hilo · Easy 0.4-mile paved loop · Two dramatic waterfalls</description>
+        <styleUrl>#activity</styleUrl>
+        <Point><coordinates>-155.1535558,19.8547195,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>Punalu'u Black Sand Beach *</name>
+        <description>Day 7 · ~50 min southwest · Volcanic black sand · Sea turtles · On the way to Volcanoes NP · *pin estimated</description>
+        <styleUrl>#activity</styleUrl>
+        <Point><coordinates>-155.5108,19.1318,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>Hawaii Volcanoes National Park</name>
+        <description>Day 8 · Full day · ~30 min southwest · Covered by America the Beautiful pass · Chain of Craters Road, Thurston Lava Tube, Kīlauea Caldera, Junior Ranger Program</description>
+        <styleUrl>#activity</styleUrl>
+        <Point><coordinates>-155.3578662,19.2608312,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>Waipio Valley</name>
+        <description>Day 9 · ~45 min north · Scenic drive stop on way to KOA · Snigdha: "very cool, very beautiful"</description>
+        <styleUrl>#activity</styleUrl>
+        <Point><coordinates>-155.5843850,20.1179849,0</coordinates></Point>
+      </Placemark>
+    </Folder>
+
+    <Folder>
+      <name>Food &amp; Drinks</name>
+      <Placemark>
+        <name>Hidden Nene *</name>
+        <description>Hilo · Cocktail bar · Day 7 evening · Snigdha's rec · *pin estimated on Keawe St</description>
+        <styleUrl>#food</styleUrl>
+        <Point><coordinates>-155.0881,19.7261,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>Costco Hilo *</name>
+        <description>Stock up on groceries · Much cheaper than resort areas · *pin estimated</description>
+        <styleUrl>#food</styleUrl>
+        <Point><coordinates>-155.0560,19.7404,0</coordinates></Point>
+      </Placemark>
+    </Folder>
+  </Folder>
+
+</Document>
+</kml>
